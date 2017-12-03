@@ -2,13 +2,11 @@ I am a freshman at University of Washington, intended to double major in compute
 
 I am interested in data science in general, including things like machine learning and quantitative finance.
 
-I am currently looking for summer internships and research opportunities for summer 2018!
-
 You can see my resume here: [Resume](https://drive.google.com/file/d/19SvmwifRPoazgERTNEJ7s7VuY-4lweZw/view?usp=sharing) 
 
 Feel free to contact me at [qli1998@uw.edu] 
 
-### Here are some projects I have worked / currently working on:
+# Here are some projects I have worked / currently working on:
 
 
 ## Soul App Analysis (Current)
