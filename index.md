@@ -1,10 +1,9 @@
-### Qingxin Li
-
 I am a freshman at University of Washington, intended to double major in computer science and mathematics. 
 
 I am interested in data science in general, and am currently looking for summer internships and research opportunities!
 
 You can see my resume here: [Resume](https://drive.google.com/file/d/19SvmwifRPoazgERTNEJ7s7VuY-4lweZw/view?usp=sharing) 
+
 Feel free to contact me at qli1998@uw.edu 
 
 ```markdown
