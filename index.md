@@ -4,7 +4,7 @@ I am interested in data science in general, including things like machine learni
 
 You can see my resume here: [Resume](https://drive.google.com/file/d/19SvmwifRPoazgERTNEJ7s7VuY-4lweZw/view?usp=sharing) 
 
-Feel free to contact me at [qli1998@uw.edu] 
+Feel free to contact me at [Email](qli1998@uw.edu)
 
 # Here are some projects I have worked / currently working on:
 
